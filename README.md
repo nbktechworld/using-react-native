@@ -1,5 +1,9 @@
 # Using React Native
 
+Video: <https://www.youtube.com/watch?v=eX2zw7JzA4Q>
+
+## Running
+
 ```
 npm start
 ```
