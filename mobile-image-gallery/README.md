@@ -1,5 +1,13 @@
 # Mobile Image Gallery
 
+Video: <https://www.youtube.com/watch?v=gVZYIe8wbnQ>
+
+<a href="https://www.youtube.com/watch?v=gVZYIe8wbnQ">
+  <img src="https://img.youtube.com/vi/gVZYIe8wbnQ/0.jpg">
+</a>
+
+## Running
+
 Install the dependencies:
 
 ```
